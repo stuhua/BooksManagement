@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="library/tsdbms"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/SoftWare/Android_eclipse/jdbc/sqljdbc_4.0/chs/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
